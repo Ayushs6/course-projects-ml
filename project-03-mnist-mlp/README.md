@@ -4,7 +4,7 @@ This project implements and compares multiple Multi-Layer Perceptron (MLP) archi
 
 ## Contents
 - `MachineLearning.ipynb` — training + evaluation notebook
-- `Assignment_3_Report.docx  — writeup and results
+- `Assignment_3_Report.pdf  — writeup and results
 
 ## How to run
 Recommended: Google Colab.
